@@ -255,3 +255,14 @@ header nav a {
   width: 30%;
   margin-bottom: 30px;
 }
+.sign {
+  display: block;
+  margin: 0 10px 20px;
+  cursor: pointer;
+  height: 45px;
+  font-size: 2rem;
+  border-radius: 10px;
+  width: 200px;
+  background-color: teal;
+  color: white;
+}
